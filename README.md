@@ -1,6 +1,6 @@
 ![1](https://user-images.githubusercontent.com/77827345/160325202-244deebd-4b58-409c-8292-f0220e171105.PNG)
 
-This Project was deployed using vercel!
+This Project was deployed using Netlify!
 
 
 
